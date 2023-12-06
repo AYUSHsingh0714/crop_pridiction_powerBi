@@ -1,4 +1,4 @@
-# crop_pridiction_powerBi
+# crop_prediction_powerBi
 crop recom.py===python code
 crop_recom.pdf===codes pdf
 crop_ppt==ppt having hybride
